@@ -3,7 +3,7 @@ Call methods within an object to water a plant.
 
 List of methods which can be called:
 + `plant.advanceToNextDay();` Progresses to the next day and restores the plant's water level to its default.
-+ `plant.water();` Waters the plant incrementally. Different levels are 'low', 'medium', and 'high.
++ `plant.water();` Waters the plant incrementally. Different levels are 'low', 'medium', and 'high'.
 + `plant.checkLevel();` Displays the current status of the plant's water level.
 
 1. The program consists of an object called 'plant', which houses the default water level and available methods.
