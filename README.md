@@ -58,4 +58,4 @@ advanceToNextDay() { //advanceToNextDay method resets the water level to 'low'.
 
 - How to create objects in Javascript that contain properties and methods.
 - How to refer to variables within an object using the 'this' keyword, such as `this.waterLevel = 'medium';`.
-- How to call a method outside of an object using the proper syntax, like `plant.water();`
+- How to call a method outside of an object using the proper syntax, for example, `plant.water();`
