@@ -1,4 +1,4 @@
-# PlantNeedsWater
+# plantNeedsWater
 Call methods within an object to water a plant.
 
 List of methods which can be called:
