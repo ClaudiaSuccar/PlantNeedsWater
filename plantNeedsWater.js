@@ -15,7 +15,7 @@ const plant = { //Object plant is created.
     }
   },
   advanceToNextDay() { //advanceToNextDay method resets the water level to 'low'.
-    console.log('It is now the next day!\n');
+    console.log('It is now the next day!');
     this.waterLevel = 'low';
   }
 }
