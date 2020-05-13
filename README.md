@@ -1,5 +1,5 @@
 # plantNeedsWater
-Call methods within an object to water a plant.
+Call methods from an object to water a plant.
 
 List of methods which can be called:
 + `plant.advanceToNextDay();` Progresses to the next day and restores the plant's water level to its default.
